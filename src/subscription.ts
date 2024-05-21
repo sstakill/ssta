@@ -6,7 +6,7 @@ import globalGroups from './globalGroups';
 export default defineGkdSubscription({
   id: 666,
   name: 'SSTA',
-  version: 0,
+  version: 0.1,
   author: 'author',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/sstakill/subscription',
